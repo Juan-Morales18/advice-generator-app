@@ -3,17 +3,29 @@
 ### Instalacion 🔌
 
 Clonacion del proyecto
-`git clone https://github.com/JuanMora-spg/advice-generator-app.git`
+
+```
+git clone https://github.com/JuanMora-spg/advice-generator-app.git
+```
 
 Instalacion de dependencias
-`npm install`
+```
+npm install
+```
 
 Inicializacion de servidor de desarrollo
-`npm run start`
+
+```
+npm run start
+```
 
 Generacion de archivo de distribucion para deploy en servidor de produccion
-`npm run build`
+
+```
+npm run build
+```
 
 ### Ver proyecto 🚀
 
 [Deploy](https://advices-generator-app.netlify.app/)
+
